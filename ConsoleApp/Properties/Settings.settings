@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsoleApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IS_LOGFILE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LOG_LEVEL" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="LOGDIR_PATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">./logs/</Value>
+    </Setting>
+    <Setting Name="LOGFILE_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">console</Value>
+    </Setting>
+    <Setting Name="LOGFILE_MAXSIZE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10485760</Value>
+    </Setting>
+    <Setting Name="LOGFILE_PERIOD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
